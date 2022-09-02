@@ -5,6 +5,7 @@
 In the product_list.xl file there are two columns one is product name and another is price column which is empty.
 Create a REST API where we upload this product file and in the response you have to return the same excel file with product price.
 For price i have to call an API to get product price for that product_id.
+
 End point : https://api.storerestapi.com/products/<product_id>
 
 ##### XL file link :
