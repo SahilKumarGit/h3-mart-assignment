@@ -1,6 +1,6 @@
 ### H3 MART ASSIGNMENT
 
-[DEMO](https://xyz.herokuapp.com/)
+[DEMO](https://h3-mart-assignment.herokuapp.com/)
 
 In the product_list.xl file there are two columns one is product name and another is price column which is empty.
 Create a REST API where we upload this product file and in the response you have to return the same excel file with product price.
