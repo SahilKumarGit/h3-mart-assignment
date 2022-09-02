@@ -1,0 +1,27 @@
+{
+  "name": "h3-mart-assignment",
+  "version": "1.0.0",
+  "description": "Create a REST API where we upload this product file and in the response you have to return",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SahilKumarGit/h3-mart-assignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SahilKumarGit/h3-mart-assignment/issues"
+  },
+  "homepage": "https://github.com/SahilKumarGit/h3-mart-assignment#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "express": "^4.18.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^2.0.19",
+    "xlsx": "^0.18.5"
+  }
+}
